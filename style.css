@@ -1,0 +1,22 @@
+.box{
+	width:300px;
+	margin:200px auto;
+	padding:20px;
+	border:10px;
+	border-style:solid;
+	border-top-style:dotted;
+	border-bottom-style:dashed;
+	border-right-style:solid;
+	border-width:10px;
+	border-length:10px;		
+	border-top-color:red;
+	border-bottom-color:green;
+	border-right-color:yellow;
+	border-left-color:orange;
+	background-color:pink;
+	text-decoration:underline;
+	font-family-style:"helvetica neue";
+	text-decoration-style:dished;
+	text-decoration-color:green;
+
+}
